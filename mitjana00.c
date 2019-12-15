@@ -1,4 +1,4 @@
-//Autor: dacomo1920daw2
+﻿//Autor: dacomo1920daw2
 //Data i hora: 201911221223
 
 #include <stdio.h>
@@ -23,5 +23,6 @@ int main() {
 	}
 	mitjana=suma/numero_repeticions;
 	printf("La mitjana resultant és: %.2f\n",mitjana);	
+	printf("Operació finalitzada amb èxit\n");
 	return 0;
 }
